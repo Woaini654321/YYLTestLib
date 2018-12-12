@@ -1,22 +1,27 @@
 {
   "name": "YYLTestLib",
-  "version": "0.1.0",
-  "summary": "A short description of YYLTestLib.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/Woaini654321/YYLTestLib",
-  "license": {
-    "type": "MIT",
-    "file": "LICENSE"
-  },
+  "version": "0.0.1",
+  "summary": "简短描述",
+  "description": "很长很详细的描述",
+  "homepage": "https://github.com/Woaini654321/YYLTestLib.git",
+  "license": "MIT",
   "authors": {
     "Woaini654321": "791903178@qq.com"
-  },
-  "source": {
-    "git": "https://github.com/Woaini654321/YYLTestLib.git",
-    "tag": "0.1.0"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "YYLTestLib/Classes/**/*"
+  "source": {
+    "git": "https://github.com/Woaini654321/YYLTestLib.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "YYLTestLib",
+    "YYLTestLib/Class/*.{h,m}"
+  ],
+  "dependencies": {
+    "JSONKit": [
+      "~> 1.4"
+    ]
+  }
 }

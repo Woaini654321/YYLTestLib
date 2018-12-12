@@ -338,11 +338,11 @@
 			);
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-YYLTestLib_Example/Pods-YYLTestLib_Example-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/YYLTestLib/YYLTestLib.framework",
+				"${BUILT_PRODUCTS_DIR}/JSONKit/JSONKit.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/YYLTestLib.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JSONKit.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
