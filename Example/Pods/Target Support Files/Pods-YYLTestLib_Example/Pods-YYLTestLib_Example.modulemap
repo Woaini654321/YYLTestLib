@@ -1,0 +1,6 @@
+framework module Pods_YYLTestLib_Example {
+  umbrella header "Pods-YYLTestLib_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

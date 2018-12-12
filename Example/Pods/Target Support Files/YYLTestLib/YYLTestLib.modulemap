@@ -1,0 +1,6 @@
+framework module YYLTestLib {
+  umbrella header "YYLTestLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
