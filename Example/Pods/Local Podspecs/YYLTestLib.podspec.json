@@ -17,11 +17,6 @@
   },
   "source_files": [
     "YYLTestLib",
-    "YYLTestLib/Class/*.{h,m}"
-  ],
-  "dependencies": {
-    "JSONKit": [
-      "~> 1.4"
-    ]
-  }
+    "YYLTestLib/Classes/Calculate/*.{h,m}"
+  ]
 }

@@ -4,9 +4,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - JSONKit (1.4)
-  - YYLTestLib (0.0.1):
-    - JSONKit (~> 1.4)
+  - YYLTestLib (0.0.1)
 
 DEPENDENCIES:
   - FBSnapshotTestCase
@@ -15,7 +13,6 @@ DEPENDENCIES:
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - FBSnapshotTestCase
-    - JSONKit
 
 EXTERNAL SOURCES:
   YYLTestLib:
@@ -23,8 +20,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  JSONKit: 5b69e804ea54d99293eed0fd2ce596c5703fefb0
-  YYLTestLib: 75398fee956119b447a923f38d4d45cd400cc711
+  YYLTestLib: 31b6849567b2e7c15c7cf1383e95899f35419238
 
 PODFILE CHECKSUM: 4dcf355fc8bdbbcb36d8487cde1571e6737ced19
 
